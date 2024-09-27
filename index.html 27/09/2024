@@ -156,15 +156,15 @@
 
     <p>Sou um estudante do ensino fundamental 2 e estou no 8° ano 81, moro em videira do estado de Santa Catarina e
       tenho 15 anos, eu gosto muito de jogos de console, computador e celular, entre 2 dias da semana prático exercícios
-      em casa para ficar mais saudável.</p>
+      em casa para ficar mais saudável e estou gostando de programação.</p>
 
 
   </section>
   <section id="projetos">
     <h2>Projetos</h2>
     <ul>
-      <li>Projeto 1: <a href="#">Descrição 1</a></li>
-      <li>Projeto 2: <a href="#">Descrição 2</a></li>
+      <li>Projeto 1: <a href="#">Em 2025 pretendo fazer alguns cursos do Senai para ter experiência no futuro</a></li>
+      <li>Projeto 2: <a href="#">E pretendo ter um salário fixo no Senai</a></li>
     </ul>
   </section>
   <section id="cadastro">
